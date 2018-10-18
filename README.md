@@ -4,3 +4,8 @@
 3) Office tools: schedule/vacation/contact app
 4) Office tools: minimalist inventory/asset management system
 5) Office tools: A solid web-based enterprise events calendar system
+
+poc
+---
+1) search out images on imgur and similar sites, figure out hash naming scheme
+2) find files with text via tesseract, etc. - try to find meaningful (or sensitive) data
